@@ -122,3 +122,170 @@
   .facility-cobtainer img {
     margin: 30px 0;
   }
+  .extra {
+    margin: 80px 350px;
+    height: 300px;
+    width: 600px;
+  
+    border-radius: 8px;
+    background-image: url('/Flower-Asset/assunnah-project-tree-plantation.jpg');
+    background-repeat: no-repeat;
+    background-size: 600px;
+  }
+  .extra-titel {
+    text-align: center;
+    font-size: 50px;
+  }
+  .extra-titel:hover {
+    color: green;
+    cursor: pointer;
+  }
+  /* sing up container  style*/
+  .sing-up-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+  }
+  .sing-up-container img {
+    width: 318px;
+    height: 420px;
+    margin: 70px 300px 70px auto;
+  }
+  .sing-titel {
+    color: #272727;
+  
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin-left: 100px;
+  }
+  .sing-description {
+    color: rgba(39, 39, 39, 0.6);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .sing-btn {
+    border: none;
+    align-items: center;
+    margin-left: 300px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #e55473;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  /* style instagram */
+  .instagram-titel {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .instagram-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+  }
+  .instagram-box {
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+  }
+  .deal {
+    background-image: url('/Flower-Asset/Rectangle\ 9.png');
+     
+    background-repeat: no-repeat;
+    margin: 80px 100px;
+    background-size: width 1440px;
+    height: 409px;
+    background-color: moccasin;
+  }
+  .deal-titel {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 122px;
+  }
+  .deal-description {
+    color: rgba(39, 39, 39, 0.6);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    margin-bottom: 20px;
+  }
+  .deal input {
+    border: none;
+    color: rgba(39, 39, 39, 0.6);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 285px;
+    padding: 20px 300px 20px 20px;
+  }
+  .deal-btn1 {
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #e55473;
+    padding: 10px 20px;
+    margin-left: 10px;
+  }
+  /* footer Style */
+  footer {
+    width: 100vw;
+    background-color: black;
+  }
+  .footer-titel {
+    color: #fff;
+    text-align: center;
+    padding-top: 128px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 20px;
+  }
+  .footer-description {
+    color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+  
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  .footer-sub-description {
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+   
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 128px;
+  }
+  /* hover */
+  .banner-btn:hover{
+    color: aqua;
+    height: 60px;
+  }
+  .flower-li li:hover{
+    text-decoration: none;
+  }
