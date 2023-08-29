@@ -91,7 +91,7 @@
     margin: 0 300px;
     justify-content: space-between;
   }
-  .flower-li li {
+  .flower-li p {
     list-style: none;
     text-decoration: underline;
     color: #272727;
@@ -128,7 +128,7 @@
     width: 600px;
   
     border-radius: 8px;
-    background-image: url('/Flower-Asset/assunnah-project-tree-plantation.jpg');
+    background-image: url('../Flower-Asset/assunnah-project-tree-plantation.jpg');
     background-repeat: no-repeat;
     background-size: 600px;
   }
